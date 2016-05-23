@@ -1,0 +1,6 @@
+C:\Users\Lynn\Documents\GitHub\NicheConsoleApp\NicheConsoleApp\bin\Debug\NicheConsoleApp.exe.config
+C:\Users\Lynn\Documents\GitHub\NicheConsoleApp\NicheConsoleApp\bin\Debug\NicheConsoleApp.exe
+C:\Users\Lynn\Documents\GitHub\NicheConsoleApp\NicheConsoleApp\bin\Debug\NicheConsoleApp.pdb
+C:\Users\Lynn\Documents\GitHub\NicheConsoleApp\NicheConsoleApp\obj\Debug\NicheConsoleApp.exe
+C:\Users\Lynn\Documents\GitHub\NicheConsoleApp\NicheConsoleApp\obj\Debug\NicheConsoleApp.pdb
+C:\Users\Lynn\Documents\GitHub\NicheConsoleApp\NicheConsoleApp\obj\Debug\NicheConsoleApp.csprojResolveAssemblyReference.cache
